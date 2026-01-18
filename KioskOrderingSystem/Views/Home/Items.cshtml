@@ -1,0 +1,32 @@
+﻿    @model IEnumerable<KioskModel>
+
+
+@{
+    ViewData["Title"] = "Items";
+
+}
+
+<h2>Items</h2>
+
+<form method="get" asp-action="Items" class="card p-4 shadow-sm">
+    <label>Pick and Choose</label>
+    <select name ="type" class="form-select" onchange="this.form.submit()">
+        <option value="">All</option>
+
+        <option>Sandwhich</option>
+        <option>Beverage</option>
+        <option>Dessert</option>
+    </select>
+</form>
+
+@foreach (var item in Model)
+{
+    <div class="mb-3">
+        <img src=@item.ImageURL alt="Food Pic" height="100" width="100" />
+
+        <h5>Name: @item.Name</h5>
+        <h5>Type: @item.Type</h5>
+        <p>Description: @item.Description</p>
+        <p>Price: @item.Price</p>
+    </div>
+}
