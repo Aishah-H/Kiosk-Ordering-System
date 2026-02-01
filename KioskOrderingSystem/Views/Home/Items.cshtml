@@ -28,5 +28,10 @@
         <h5>Type: @item.Type</h5>
         <p>Description: @item.Description</p>
         <p>Price: @item.Price</p>
+        @using (Html.BeginForm("Cart", "Home", FormMethod.Post))
+        {
+            @Html.Hidden("id", item.Name)
+            <button type="submit">Add to cart</button>
+         }
     </div>
 }

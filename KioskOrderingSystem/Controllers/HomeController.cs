@@ -37,6 +37,9 @@ namespace KioskOrderingSystem.Controllers
                     case "Dessert":
                         return View(_kiosDatabase.GetDesserts());
 
+                    case "All":
+                        return View(_kiosDatabase.GetAllItems());
+
                     default:
                         return View(_kiosDatabase.GetAllItems());
 
@@ -46,7 +49,13 @@ namespace KioskOrderingSystem.Controllers
             return View(items);
         }
 
+        [HttpPost]
+        public IActionResult Cart(string id)
+        {
 
+
+            return View("Cart", new KioskModel());
+        }
 
         public IActionResult Privacy()
         {

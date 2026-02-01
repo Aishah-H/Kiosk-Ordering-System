@@ -38,8 +38,16 @@ namespace KioskOrderingSystem.Repositories
                     Name = "Cappachino",
                     Type = "Beverage",
                     Description = "Cappacino drink",
-                    ImageURL = "https://www.eatingwell.com/thmb/BKZhWx-_Xyo6MKrh3s_gi10DQ8w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4526733-45129f82ed554ea1be3ac980d096a6f1.jpg",
+                    ImageURL = "https://www.livingnorth.com/images/media/articles/food-and-drink/eat-and-drink/coffee.png?fm=pjpg&w=1000&q=95",
                     Price = 3.50
+                },
+
+                new KioskModel {
+                    Name = "Cheesecake",
+                    Type = "Dessert",
+                    Description = "Plain cheesecake",
+                    ImageURL = "https://www.onceuponachef.com/images/2017/12/cheesecake.jpg",
+                    Price = 5.00,
                 },
             };
         }

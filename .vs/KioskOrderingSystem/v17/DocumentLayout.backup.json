@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\repositories\\kiosdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\repositories\\kiosdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\models\\kioskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\models\\kioskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\home\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\home\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\repositories\\kiosdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\repositories\\kiosdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|c:\\users\\hersi\\source\\repos\\kioskorderingsystem\\kioskorderingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C7AEE93-61DD-4CB9-B337-B0EA16B9CDA7}|KioskOrderingSystem\\KioskOrderingSystem.csproj|solutionrelative:kioskorderingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,75 +46,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "KioskOrderingSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "KioskOrderingSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "KioskOrderingSystem\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "KioskOrderingSystem\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T21:07:40.489Z"
+              "WhenOpened": "2026-02-01T19:47:59.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "KioskOrderingSystem\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "KioskOrderingSystem\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T19:45:27.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "KiosDatabase.cs",
               "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Repositories\\KiosDatabase.cs",
               "RelativeDocumentMoniker": "KioskOrderingSystem\\Repositories\\KiosDatabase.cs",
               "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Repositories\\KiosDatabase.cs",
               "RelativeToolTip": "KioskOrderingSystem\\Repositories\\KiosDatabase.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwEkAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T20:55:31.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KioskOrderingSystem\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Controllers\\HomeController.cs",
               "RelativeToolTip": "KioskOrderingSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T19:50:52.61Z"
+              "WhenOpened": "2026-01-17T19:50:52.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KioskOrderingSystem\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KioskOrderingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T19:49:10.591Z"
+              "WhenOpened": "2026-01-17T19:49:10.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "KioskModel.cs",
               "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Models\\KioskModel.cs",
               "RelativeDocumentMoniker": "KioskOrderingSystem\\Models\\KioskModel.cs",
               "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Models\\KioskModel.cs",
               "RelativeToolTip": "KioskOrderingSystem\\Models\\KioskModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T19:35:00.929Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2026-01-17T19:35:00.929Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -111,9 +134,35 @@
               "RelativeDocumentMoniker": "KioskOrderingSystem\\Views\\Home\\Items.cshtml",
               "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Home\\Items.cshtml",
               "RelativeToolTip": "KioskOrderingSystem\\Views\\Home\\Items.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-17T19:48:14.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "KioskOrderingSystem\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "KioskOrderingSystem\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T19:22:48.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KioskOrderingSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hersi\\source\\repos\\KioskOrderingSystem\\KioskOrderingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KioskOrderingSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T21:07:40.489Z",
               "EditorCaption": ""
             }
           ]

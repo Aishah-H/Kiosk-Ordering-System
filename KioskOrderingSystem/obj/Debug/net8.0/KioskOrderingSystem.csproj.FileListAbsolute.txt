@@ -31,3 +31,4 @@ C:\Users\hersi\source\repos\KioskOrderingSystem\KioskOrderingSystem\obj\Debug\ne
 C:\Users\hersi\source\repos\KioskOrderingSystem\KioskOrderingSystem\obj\Debug\net8.0\KioskOrderingSystem.pdb
 C:\Users\hersi\source\repos\KioskOrderingSystem\KioskOrderingSystem\obj\Debug\net8.0\KioskOrderingSystem.genruntimeconfig.cache
 C:\Users\hersi\source\repos\KioskOrderingSystem\KioskOrderingSystem\obj\Debug\net8.0\ref\KioskOrderingSystem.dll
+C:\Users\hersi\source\repos\KioskOrderingSystem\KioskOrderingSystem\obj\Debug\net8.0\KioskOrderingSystem.sourcelink.json
